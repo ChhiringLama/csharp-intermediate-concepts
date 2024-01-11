@@ -1,0 +1,14 @@
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\bin\Debug\net8.0\classfive.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\bin\Debug\net8.0\classfive.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\bin\Debug\net8.0\classfive.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\bin\Debug\net8.0\classfive.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\bin\Debug\net8.0\classfive.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\refint\classfive.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\classfive.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Static Constructor and Classes\classfive\obj\Debug\net8.0\ref\classfive.dll

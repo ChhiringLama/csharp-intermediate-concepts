@@ -1,0 +1,28 @@
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\bin\Debug\net8.0\indexer.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\bin\Debug\net8.0\indexer.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\bin\Debug\net8.0\indexer.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\bin\Debug\net8.0\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\bin\Debug\net8.0\indexer.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\refint\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\indexer.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Indexers\indexer\obj\Debug\net8.0\ref\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\bin\Debug\net8.0\indexer.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\bin\Debug\net8.0\indexer.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\bin\Debug\net8.0\indexer.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\bin\Debug\net8.0\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\bin\Debug\net8.0\indexer.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\refint\indexer.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\indexer.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Indexers\indexer\obj\Debug\net8.0\ref\indexer.dll

@@ -1,0 +1,28 @@
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\bin\Debug\net8.0\property.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\bin\Debug\net8.0\property.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\bin\Debug\net8.0\property.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\bin\Debug\net8.0\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\bin\Debug\net8.0\property.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\refint\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\property.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\properties\property\obj\Debug\net8.0\ref\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\bin\Debug\net8.0\property.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\bin\Debug\net8.0\property.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\bin\Debug\net8.0\property.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\bin\Debug\net8.0\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\bin\Debug\net8.0\property.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\refint\property.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\property.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Properties\property\obj\Debug\net8.0\ref\property.dll

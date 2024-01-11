@@ -1,0 +1,14 @@
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\bin\Debug\net8.0\constanddeconst.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\bin\Debug\net8.0\constanddeconst.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\bin\Debug\net8.0\constanddeconst.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\bin\Debug\net8.0\constanddeconst.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\bin\Debug\net8.0\constanddeconst.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\refint\constanddeconst.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\constanddeconst.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 3\Constructor and Deconstructors\constanddeconst\obj\Debug\net8.0\ref\constanddeconst.dll
