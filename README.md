@@ -25,5 +25,5 @@ If you find any errors, have suggestions, or want to contribute additional conte
 <br>
 #About the Author
 Chhiring Lama
-
+<br>
 Happy Coding! 🚀
