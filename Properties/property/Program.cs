@@ -2,8 +2,8 @@
 using System.Net.NetworkInformation;
 using System.Reflection.Metadata.Ecma335;
 
-
-class Program {
+// A field is only a proeperty if only it it access (manipulated) using the accessor, i.e setter and getter
+class Program { 
         static void Main(string[] args) {
             Test ref_1=new Test("Lama",2);
             Console.WriteLine(ref_1.SymbolNo);
@@ -16,11 +16,14 @@ public class Test{
     public string name;
     private int symbolNo;
 
+    //Constructor
     public Test(string name,int symbolNo){
         //Property is capitalized
         Name=name;
         SymbolNo=symbolNo;
     }
+
+    //This is called accessor
 
     public string Name{
         get{
@@ -35,6 +38,7 @@ public class Test{
         get{
             return symbolNo;
         }set{
+            //In setters we use the keyword 'value' to refer to any value that is being assigned to a  property
             symbolNo=value;
         }
     }
