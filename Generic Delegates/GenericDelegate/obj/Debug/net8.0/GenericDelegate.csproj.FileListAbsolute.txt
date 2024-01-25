@@ -1,0 +1,4 @@
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Generic Delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Generic Delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Generic Delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Generic Delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.csproj.CoreCompileInputs.cache

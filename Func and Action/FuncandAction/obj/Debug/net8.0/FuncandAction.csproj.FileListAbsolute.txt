@@ -1,0 +1,14 @@
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.AssemblyInfoInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.AssemblyInfo.cs
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.csproj.CoreCompileInputs.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\bin\Debug\net8.0\FuncandAction.exe
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\bin\Debug\net8.0\FuncandAction.deps.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\bin\Debug\net8.0\FuncandAction.runtimeconfig.json
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\bin\Debug\net8.0\FuncandAction.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\bin\Debug\net8.0\FuncandAction.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\refint\FuncandAction.dll
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.pdb
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\FuncandAction.genruntimeconfig.cache
+C:\Users\lamah\Desktop\.Net\Dot Net Code\Chatper 4\Func and Action\FuncandAction\obj\Debug\net8.0\ref\FuncandAction.dll
