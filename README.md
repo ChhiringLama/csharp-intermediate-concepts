@@ -5,6 +5,8 @@ Welcome to the C# Intermediate Topics Repository! This repository is organized i
 **Abstraction**: Explanation and examples of abstraction in C#.<br>
 **Constructor and Destructor**: Comprehensive guide on constructors and destructors in C#.<br>
 **Copy Constructor**.<br>
+**Delegates**:The variable that stores a reference to methods from any classes.<br>
+**Events**.<br>
 **Indexer**: Understanding and implementing indexers in your C# code.<br>
 **Inheritance**: In-depth coverage of inheritance concepts in C#.<br>
 **Interface**.<br>
