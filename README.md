@@ -16,6 +16,8 @@ Welcome to the C# Intermediate Topics Repository! This repository is organized i
 **Properties**: Exploring C# properties and their usage.<br>
 **Static Constructor and Classes**.<br>
 **This Keyword**.
+**WinForms**.
+**Working with Database**.
 
 <br>
 ##How to Use This Repository
